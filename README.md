@@ -221,7 +221,7 @@ Authentication
 
 # Backend Dependencies
 Install the required backend dependencies:
-  npm install express mongoose jsonwebtoken bcryptjs cors swagger-ui-express dotenv multer cloudinary multer-storage-cloudinary
+  npm install express mongoose jsonwebtoken bcrypt cors swagger-ui-express dotenv multer cloudinary multer-storage-cloudinary
 
 Install nodemon as a development dependency:
   npm install --save-dev nodemon
